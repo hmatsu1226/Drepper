@@ -1,0 +1,11 @@
+color #1F77B4
+colordef c0 #1F77B4
+colordef c1 #98DF8A
+colordef c2 #8C564B
+colordef c3 #C7C7C7
+colordef c4 #9EDAE5
+color ::cluster=0 c0
+color ::cluster=1 c1
+color ::cluster=2 c2
+color ::cluster=3 c3
+color ::cluster=4 c4
